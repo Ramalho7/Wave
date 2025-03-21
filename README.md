@@ -3,7 +3,7 @@
 - git checkout -b <nome_sua_branch>
 - ## ADICIONE AS ALTERAÇÕES E ENVIE::
 - git add .
-- git commit -m "*<TIPOS><PARTE CÓD. AFETADA><DESCRIÇÃO>*"
+- git commit -m "*< TIPOS > <PARTE CÓD. AFETADA> <DESCRIÇÃO>*"
 - ####
   tipos::
 - *feat:* Usado para adição de uma nova funcionalidade ou recurso ao projeto.
