@@ -17,7 +17,7 @@
 - ## ABRIR SOLICITAÇÃO DE PULL REQUEST::
 - ![image](https://github.com/user-attachments/assets/b77dd26e-9d7c-4752-8286-4bcb8ff57d4a)
 
-- Envie do seu Fork para a sua branch no projeto principal::
+- Envie do seu Fork para a branch main no projeto principal::
 
 - ![image](https://github.com/user-attachments/assets/a8999d0b-6351-4e38-a3a7-38ec96d537aa)
 
