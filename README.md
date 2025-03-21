@@ -1,7 +1,7 @@
-- # Como realizar um commit::
-- ## CRIAR BRANCH LOCAL::
-- git checkout -b <nome_sua_branch>
-- ## ADICIONE AS ALTERAÇÕES E ENVIE::
+- # Como realizar uma pull request::
+- ## FAÇA UM FORK DO PROJETO PARA O SEU GITHUB::
+- Clone o projeto para sua máquina as alterações necessárias
+- ## Como enviar uma pull request::
 - git add .
 - git commit -m "*< TIPOS > <PARTE CÓD. AFETADA> <DESCRIÇÃO>*"
 - ####
@@ -14,5 +14,11 @@
   Exemplo: docs(readme): update installation steps  
 - *style:* Alterações que afetam a formatação ou estilo do código, sem mudar sua lógica.
   Exemplo: style(css): adjust indentation  
-- ## REALIZAR PUSH PARA SUA BRANCH REMOTA::
-- git push origin *<branch_local>*:*<branch_remota>*
+- ## ABRIR SOLICITAÇÃO DE PULL REQUEST::
+- ![image](https://github.com/user-attachments/assets/b77dd26e-9d7c-4752-8286-4bcb8ff57d4a)
+
+- Envie do seu Fork para a sua branch no projeto principal::
+
+- ![image](https://github.com/user-attachments/assets/a8999d0b-6351-4e38-a3a7-38ec96d537aa)
+
+
