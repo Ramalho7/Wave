@@ -1,6 +1,8 @@
 - # Como realizar uma pull request::
 - ## FAÇA UM FORK DO PROJETO PARA O SEU GITHUB::
 - Clone o projeto para sua máquina as alterações necessárias
+- git clone <link do projeto disponível em code>
+- 
 - ## Como enviar uma pull request::
 - git add .
 - git commit -m "*< TIPOS > <PARTE CÓD. AFETADA> <DESCRIÇÃO>*"
