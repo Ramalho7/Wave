@@ -1,5 +1,7 @@
 - # Como realizar uma pull request::
 - ## FAÇA UM FORK DO PROJETO PARA O SEU GITHUB::
+- Clicando em Fork, você cria o seu Fork do projeto principal para o seu github::
+- ![image](https://github.com/user-attachments/assets/24784a80-0692-404b-9b43-3ea9bc8ac663)
 - Clone o projeto para sua máquina as alterações necessárias
 - *Como clonar::*
 - git clone <link do projeto disponível em code>
