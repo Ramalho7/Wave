@@ -1,17 +1,18 @@
 - # Como realizar uma pull request::
 - ## FAÇA UM FORK DO PROJETO PARA O SEU GITHUB::
 - Clone o projeto para sua máquina as alterações necessárias
-- git clone < link do seu projeto disponível em code >
+- `git clone < link do seu projeto disponível em code>`
 - ![image](https://github.com/user-attachments/assets/5fe93a4c-dea0-432c-9435-4206e792afec)
 - Após realizar o clone será criado uma pasta na sua máquina com o nome do projeto ontem você poderá realizar as alterações necessárias.
 - ### Como manter o clone atualizado
 - Para manter o clone atualizado pode ser usado o comado:
-- git pull
+- `git pull`
+- `git pull origin main` (Por vezes pode ser preciso usar esse comando)
 - Com esse comando será possível que você atualize o seus arquivos locais com o repo online.
 ---
 - ## Como enviar uma pull request::
-- git add .
-- git commit -m "*< TIPOS > <PARTE CÓD. AFETADA> <DESCRIÇÃO>*"
+- `git add .`
+- `git commit -m "*< TIPOS > <PARTE CÓD. AFETADA> <DESCRIÇÃO>*"`
 - ####
   tipos::
 - *feat:* Usado para adição de uma nova funcionalidade ou recurso ao projeto.
